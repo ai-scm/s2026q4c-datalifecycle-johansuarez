@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="ShDdKBnpfSugjOlsLu7k">
+    <mxGraphModel dx="2591" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1790" pageHeight="1160" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="root-clean" edge="1" parent="1" source="root" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#C98C45;strokeWidth=2.7;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="clean" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c1" edge="1" parent="1" source="clean" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#C98C45;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="c1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c2" edge="1" parent="1" source="clean" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#C98C45;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="c2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c3" edge="1" parent="1" source="clean" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#C98C45;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="c3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-c4" edge="1" parent="1" source="clean" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#C98C45;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="c4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="root-prep" edge="1" parent="1" source="root" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#9876B4;strokeWidth=2.7;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="prep" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-p1" edge="1" parent="1" source="prep" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#9876B4;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="p1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-p2" edge="1" parent="1" source="prep" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#9876B4;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="p2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-p3" edge="1" parent="1" source="prep" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#9876B4;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="p3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-p4" edge="1" parent="1" source="prep" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#9876B4;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="p4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="root-analytics" edge="1" parent="1" source="root" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#557FAD;strokeWidth=2.7;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="analytics" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-432" y="1018" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-a1" edge="1" parent="1" source="analytics" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#557FAD;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="a1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251.99999999999955" y="772.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-a2" edge="1" parent="1" source="analytics" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#557FAD;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="a2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251.99999999999955" y="772.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-a3" edge="1" parent="1" source="analytics" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#557FAD;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="a3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251.99999999999955" y="772.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-a4" edge="1" parent="1" source="analytics" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#557FAD;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="a4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251.99999999999955" y="772.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="root-insights" edge="1" parent="1" source="root" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#4E9C8B;strokeWidth=2.7;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="insights" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="772.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-v1" edge="1" parent="1" source="insights" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#4E9C8B;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="v1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-v2" edge="1" parent="1" source="insights" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#4E9C8B;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="v2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-v3" edge="1" parent="1" source="insights" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#4E9C8B;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="v3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-v4" edge="1" parent="1" source="insights" style="edgeStyle=entityRelationEdgeStyle;curved=1;strokeColor=#4E9C8B;strokeWidth=1.8;startArrow=none;endArrow=none;html=1;rounded=1;labelBackgroundColor=default;defaultLabelBackgroundColor=page;" target="v4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="root" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#21354B;strokeColor=#21354B;strokeWidth=1.9;fontColor=#FFFFFF;fontSize=23;fontFamily=Arial;align=center;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;DATA LIFECYCLE&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ETAPAS 3 Y 4&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="132" width="320" x="705" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="clean" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF9F1;strokeColor=#C98C45;strokeWidth=1.9;fontColor=#21354B;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;03 · LIMPIEZA DE DATOS&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Preparar información confiable&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="373" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF9F1;strokeColor=#E6C89F;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Depurar y validar&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Detectar errores, valores nulos y duplicados.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF9F1;strokeColor=#E6C89F;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Estandarizar e integrar&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Unificar formatos, fechas, tipos y fuentes.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF9F1;strokeColor=#E6C89F;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Transformar con ETL&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Extraer, transformar y cargar registros.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF9F1;strokeColor=#E6C89F;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Catalogar y etiquetar&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Describir metadatos y preparar datos para ML.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="prep" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FAF7FE;strokeColor=#9876B4;strokeWidth=1.9;fontColor=#21354B;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;SERVICIOS AWS · LIMPIEZA&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Preparación y calidad de datos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="1124" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FAF7FE;strokeColor=#D5C4E1;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;AWS Glue&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Automatiza procesos ETL y transformaciones.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FAF7FE;strokeColor=#D5C4E1;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Glue Data Catalog&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Registra esquemas y metadatos de los datos.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="227.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FAF7FE;strokeColor=#D5C4E1;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Amazon EMR&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Procesamiento distribuido a gran escala.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FAF7FE;strokeColor=#D5C4E1;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;SageMaker Ground Truth&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Etiquetado de datos para entrenar modelos.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="analytics" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5F9FD;strokeColor=#557FAD;strokeWidth=1.9;fontColor=#21354B;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;04 · ANÁLISIS Y VISUALIZACIÓN&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Convertir datos en decisiones&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="373" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5F9FD;strokeColor=#BED1E5;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Consultar y explorar&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Usar SQL, filtros y agregaciones.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="583.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5F9FD;strokeColor=#BED1E5;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Identificar patrones&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Analizar indicadores y tendencias.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="683.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5F9FD;strokeColor=#BED1E5;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Visualizar con BI&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Mostrar resultados en gráficos y dashboards.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="783.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F5F9FD;strokeColor=#BED1E5;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Predecir y actuar&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Aplicar Machine Learning para decidir.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="-2" y="883.5" as="geometry" />
+        </mxCell>
+        <mxCell id="insights" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F4FAF8;strokeColor=#4E9C8B;strokeWidth=1.9;fontColor=#21354B;fontSize=17;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;SERVICIOS AWS · ANÁLISIS&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Consulta, BI y modelos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="1117" y="733.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v1" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F4FAF8;strokeColor=#BDDAD2;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Amazon Athena&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Consultas SQL sobre información en S3.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="583.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v2" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F4FAF8;strokeColor=#BDDAD2;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Amazon Redshift&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Data warehouse para análisis a escala.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="683.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v3" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F4FAF8;strokeColor=#BDDAD2;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;Amazon QuickSight&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Dashboards e informes interactivos.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="783.5" as="geometry" />
+        </mxCell>
+        <mxCell id="v4" parent="1" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#F4FAF8;strokeColor=#BDDAD2;strokeWidth=1.25;fontColor=#26384C;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacingLeft=17;spacingRight=14;spacingTop=9;spacingBottom=9;" value="&lt;b&gt;SageMaker y OpenSearch&lt;/b&gt;&lt;br/&gt;&lt;font color=&quot;#647488&quot; style=&quot;font-size:13px;&quot;&gt;Predicciones, búsqueda y análisis de eventos.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="315" x="1464" y="883.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
